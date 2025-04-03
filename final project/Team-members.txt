@@ -1,0 +1,13 @@
+Contributions
+
+. Alen Thomas #200627098
+    -index.html
+    -styles.css(index.html part)
+    -contact.html
+. Akarsh Krishna Dinesh #200624618
+    -product.html
+    -styles.css(product.html)
+. Don Renil Moonjanattu Devasia #200620704
+    -about.html 
+    -styles.css(about.html)
+    -Navigation.js
